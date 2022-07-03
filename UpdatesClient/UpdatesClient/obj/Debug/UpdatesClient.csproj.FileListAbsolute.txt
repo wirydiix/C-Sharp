@@ -1,0 +1,184 @@
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.exe.config
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.exe
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.pdb
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\ru-RU\UpdatesClient.resources.dll
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.AssemblyReference.cache
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Assets\Images\Images.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Notifications\UI\PopupNotify.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Recovery\UI\RecoveryWindow.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SelectLanguage.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\Header.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoProblemPanel.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\MainButton.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerDescription.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerMods.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerPlayers.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerItemGrid.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerListGrid.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\Authorization.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\MainWindow.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SplashScreen.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoBottomPanel.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\NotifyList.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\OnlineButton.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Notifications\UI\PopupNotify.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Downloader\UI\ProgressBar.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\ServerList.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\SettingsPanel.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\InstallerWindow.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\App.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient_MarkupCompile.cache
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient_MarkupCompile.lref
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\App.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Recovery\UI\RecoveryWindow.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SelectLanguage.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\Header.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoProblemPanel.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\MainButton.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerDescription.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerMods.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerPlayers.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerItemGrid.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerListGrid.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Dictionary.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\Authorization.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\MainWindow.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SplashScreen.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoBottomPanel.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\NotifyList.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\OnlineButton.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Downloader\UI\ProgressBar.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\ServerList.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\SettingsPanel.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\InstallerWindow.baml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.g.resources
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.Properties.Resources.resources
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.Properties.Resources.ru-RU.resources
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.GenerateResource.cache
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.CoreCompileInputs.cache
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\ru-RU\UpdatesClient.resources.dll
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.exe
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.pdb
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.exe.config
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.exe
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.pdb
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\ru-RU\UpdatesClient.resources.dll
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.AssemblyReference.cache
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Assets\Images\Images.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Notifications\UI\PopupNotify.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Recovery\UI\RecoveryWindow.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SelectLanguage.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\Header.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoProblemPanel.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\MainButton.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerPlayers.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerItemGrid.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerListGrid.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\Authorization.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\MainWindow.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SplashScreen.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoBottomPanel.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\NotifyList.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\OnlineButton.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Notifications\UI\PopupNotify.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Downloader\UI\ProgressBar.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\ServerList.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\SettingsPanel.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\InstallerWindow.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\App.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient_MarkupCompile.cache
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient_MarkupCompile.lref
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\App.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Recovery\UI\RecoveryWindow.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SelectLanguage.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\Header.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoProblemPanel.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\MainButton.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerPlayers.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerItemGrid.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerListGrid.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Dictionary.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\Authorization.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\MainWindow.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SplashScreen.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoBottomPanel.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\NotifyList.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\OnlineButton.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Downloader\UI\ProgressBar.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\ServerList.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\SettingsPanel.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\InstallerWindow.baml
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.g.resources
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.Properties.Resources.resources
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.Properties.Resources.ru-RU.resources
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.GenerateResource.cache
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.CoreCompileInputs.cache
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\ru-RU\UpdatesClient.resources.dll
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.exe
+e:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.pdb
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.exe.config
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.exe
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\UpdatesClient.pdb
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\bin\Debug\ru-RU\UpdatesClient.resources.dll
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.AssemblyReference.cache
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Assets\Images\Images.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Notifications\UI\PopupNotify.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Recovery\UI\RecoveryWindow.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SelectLanguage.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\Header.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoProblemPanel.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\MainButton.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerDescription.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerMods.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerPlayers.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerItemGrid.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerListGrid.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\Authorization.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\MainWindow.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SplashScreen.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoBottomPanel.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\NotifyList.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\OnlineButton.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Notifications\UI\PopupNotify.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Downloader\UI\ProgressBar.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\ServerList.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\SettingsPanel.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\InstallerWindow.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\App.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient_MarkupCompile.cache
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient_MarkupCompile.lref
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\App.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Recovery\UI\RecoveryWindow.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SelectLanguage.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\Header.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoProblemPanel.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\MainButton.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerDescription.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerMods.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerBlock\ServerPlayers.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerItemGrid.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\ServerListGrid.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Dictionary.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\Authorization.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\MainWindow.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\SelfUpdater\SplashScreen.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\InfoBottomPanel.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\NotifyList.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Controllers\OnlineButton.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\Modules\Downloader\UI\ProgressBar.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\ServerList.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Pages\MainWindow\SettingsPanel.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\InstallerWindow.baml
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.g.resources
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.Properties.Resources.resources
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.Properties.Resources.ru-RU.resources
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.GenerateResource.cache
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.csproj.CoreCompileInputs.cache
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\ru-RU\UpdatesClient.resources.dll
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.exe
+e:\TESmainserver\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UpdatesClient.pdb
+E:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\AuthorizationWindow.g.cs
+E:\TES main server\skymp5-launcher-master\UpdatesClient\UpdatesClient\obj\Debug\UI\Windows\AuthorizationWindow.baml

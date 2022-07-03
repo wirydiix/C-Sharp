@@ -1,0 +1,10 @@
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\bin\Debug\ManifestTools.exe.config
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\bin\Debug\ManifestTools.exe
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\bin\Debug\ManifestTools.pdb
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\bin\Debug\Newtonsoft.Json.dll
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\bin\Debug\Newtonsoft.Json.xml
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\obj\Debug\ManifestTools.csproj.AssemblyReference.cache
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\obj\Debug\ManifestTools.csproj.CoreCompileInputs.cache
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\obj\Debug\ManifestTools.csproj.CopyComplete
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\obj\Debug\ManifestTools.exe
+f:\Загрузки\skymp5-launcher-master\UpdatesClient\ManifestTools\obj\Debug\ManifestTools.pdb
